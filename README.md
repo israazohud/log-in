@@ -3,7 +3,7 @@
 # introduction 
 Instagram login form
 
-# skills: boom:
+# skills 
 * html
 * css
 # visit site: 
