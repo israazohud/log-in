@@ -8,3 +8,7 @@ Instagram login form
 * css
 # visit site: 
 [click here](https://israazohud.github.io/log-in/)
+***
+# img
+
+![](instgram.jpg)
