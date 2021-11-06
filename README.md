@@ -11,4 +11,4 @@ Instagram login form
 ***
 # img
 
-![](instgram.jpg)
+![](login-instagram.png)
